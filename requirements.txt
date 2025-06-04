@@ -1,0 +1,7 @@
+
+streamlit
+selenium
+openai
+pandas
+openpyxl
+webdriver_manager
