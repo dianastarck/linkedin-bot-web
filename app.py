@@ -31,4 +31,5 @@ if ejecutar:
             with open(latest, "rb") as file:
                 st.download_button("📥 Descargar Excel generado", file, file_name=latest)
         else:
-            st.warning("No se generó ningún archivo.")
+            st.warning("No se generó ningún archivo.")print(resultado.stdout)
+print(resultado.stderr)
